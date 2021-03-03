@@ -1,1 +1,1 @@
-# Portfolio
+Protype station for the early detection of COVID-19: System that measures the body temperature, oxygen levels, and heart rate of a person, uploads the data to a MySQL database, and allows to detect biological anomalies that can help indicate the presence of the virus. Implemented to be used in households and institutions. For further insight, open SPECIFICATIONS.pdf
